@@ -1,0 +1,24 @@
+h1 {
+  color: tomato;
+  margin-bottom: 10px;
+}
+h2 {
+  color: rebeccapurple;
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.purple {
+  color: purple
+}
+ol {
+  list-style-type: upper-roman;
+  text-decoration: underline purple;
+  
+}
+.black {
+  text-decoration: underline black;
+}
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
